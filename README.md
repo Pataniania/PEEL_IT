@@ -46,15 +46,5 @@ Building a project alone in a 7-day sprint required rapid troubleshooting of eng
 
 ---
 
-## 🎮 How to Play
-1.  Download the **Peel It** build folder.
-2.  Launch `PeelIt.exe`.
-3.  **Controls:**
-    * **Left Mouse (Hold):** Struggle / Peel the sticker.
-    * **Mouse Move:** Control pull direction and camera.
-    * **Tab:** Open/Close Sticker Catalog.
-
----
-
 ## 🎓 Reflection
 This project was an intensive deep-dive into the UE5 pipeline. It required mastering the communication between Blueprints and Shaders while handling the full stack: from **Quixel Bridge** asset integration in the canteen environment to the final **Shipping Build** packaging. It stands as a testament to solving complex architectural problems under a strict "Game Jam" deadline.
