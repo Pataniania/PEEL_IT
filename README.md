@@ -1,4 +1,3 @@
-Here is your README.md file, formatted and ready to be dropped into your project folder or GitHub repository.
 
 🖐️ Peel It
 A solo Unreal Engine 5 "Vignette" project developed in 7 days.
