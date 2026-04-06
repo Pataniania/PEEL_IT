@@ -3,6 +3,11 @@
 > **Platform:** PC (Windows)  
 > **Role:** Solo Developer (CS Student)
 
+<img width="765" height="399" alt="Capture d’écran 2026-04-06 122800" src="https://github.com/user-attachments/assets/73a12272-a183-4119-9c6a-9eb7ae69d1c8" />
+
+<img width="752" height="399" alt="Capture d’écran 2026-04-06 122815" src="https://github.com/user-attachments/assets/3152f9f9-5ece-4e6a-92eb-fc8244714f4f" />
+
+
 ## 📋 Project Overview
 **Peel It** is a tactile, first-person interaction game set in a deserted school canteen. The player is tasked with the oddly satisfying—yet frustrating—job of removing stubborn stickers from plastic cafeteria furniture. 
 
