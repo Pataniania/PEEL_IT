@@ -7,6 +7,7 @@
 
 <img width="752" height="399" alt="Capture d’écran 2026-04-06 122815" src="https://github.com/user-attachments/assets/3152f9f9-5ece-4e6a-92eb-fc8244714f4f" />
 
+<img width="895" height="431" alt="Capture d’écran 2026-04-06 122936" src="https://github.com/user-attachments/assets/45d6e7ee-a910-4bb0-9c76-f59c90086e09" />
 
 ## 📋 Project Overview
 **Peel It** is a tactile, first-person interaction game set in a deserted school canteen. The player is tasked with the oddly satisfying—yet frustrating—job of removing stubborn stickers from plastic cafeteria furniture. 
